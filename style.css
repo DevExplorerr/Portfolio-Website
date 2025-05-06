@@ -468,6 +468,7 @@ a {
   margin-bottom: 20px;
   color: white;
   font-weight: 600;
+  text-align: center;
 }
 
 .p {
@@ -475,6 +476,14 @@ a {
   color: #c5c5c5;
   line-height: 1.8;
   margin-bottom: 30px;
+}
+
+.p1 {
+  font-size: 1.1rem;
+  color: white;
+  line-height: 1.8;
+  margin-bottom: 75px;
+  text-align: center;
 }
 
 .ul {
